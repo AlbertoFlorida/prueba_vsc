@@ -14,6 +14,3 @@ function saludoPersonalizado($nombre)
 }
 
 echo saludo("Andres");
-
-
-echo "estoy en MASTER";
